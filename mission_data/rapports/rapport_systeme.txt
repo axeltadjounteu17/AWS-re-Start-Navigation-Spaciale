@@ -1,0 +1,14 @@
+=== RAPPORT SYSTÈME ===
+Date : 2026-02-18
+
+Répertoire de travail : /home/tnar/Desktop/AWS-re⁄Start-Navigation-Spaciale
+
+Variables d'environnement (PYTHON / PATH) :
+  PATH = /usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+  XDG_SEAT_PATH = /org/freedesktop/DisplayManager/Seat0
+  XDG_SESSION_PATH = /org/freedesktop/DisplayManager/Session0
+
+Espace disque :
+  Total  : 238.5 Go
+  Utilisé: 152.8 Go
+  Libre  : 84.6 Go

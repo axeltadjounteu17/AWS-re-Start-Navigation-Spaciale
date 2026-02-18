@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2028-07-20T10:30:00Z",
+    "phase": "injection_trans_mars",
+    "alertes": {
+      "propulsion": "nominal",
+      "support_vie": "nominal",
+      "navigation": "alerte_mineure",
+      "communication": "nominal"
+    }
+  },
+  {
+    "timestamp": "2028-08-15T12:00:00Z",
+    "phase": "croisiere",
+    "alertes": {
+      "propulsion": "nominal",
+      "support_vie": "alerte_mineure",
+      "navigation": "nominal",
+      "communication": "degradee"
+    }
+  },
+  {
+    "timestamp": "2029-04-10T18:00:00Z",
+    "phase": "approche_mars",
+    "alertes": {
+      "propulsion": "alerte_mineure",
+      "support_vie": "nominal",
+      "navigation": "nominal",
+      "communication": "nominal"
+    }
+  }
+]
